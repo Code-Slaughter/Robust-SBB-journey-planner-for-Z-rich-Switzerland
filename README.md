@@ -2,7 +2,7 @@
 
 - **Executive summary:** build a robust SBB journey planner for the Zürich area
 - A short video presentation is provided [here](https://www.youtube.com/watch?v=-5D6Pfyx6L0).
-----
+
 ## Content
 
 * [HOW-TO](#HOW-TO)
@@ -23,14 +23,12 @@
 * [References](#References)
 * [FAQ](#FAQ)
 
-----
 ## HOW-TO
 
 This section intentionally blank. Students must complete it with instructions on how to use the code in their project.
 
 [top](#Content)
 
-----
 ## Important Dates
 
 The assignment (clear, well-annotated notebook and/or code; report-like), **with a short, 7-minute video of your presentation** is due on **Sunday May 29th, 23:59 (noon) CEST**.
@@ -39,7 +37,6 @@ For the oral defense, we will organize short Q&A discussions of 8 minutes per gr
 
 [top](#Content)
 
-----
 ## Problem Motivation
 
 Imagine you are a regular user of the public transport system, and you are checking the operator's schedule to meet your friends for a class reunion.
@@ -57,7 +54,6 @@ Probably not. However, most public transport applications will insist on the fir
 
 [top](#Content)
 
-----
 ## Problem Description
 
 In this final project you will build your own _robust_ public transport route planner to improve on that. You will reuse the SBB dataset (See next section: [Dataset Description](#dataset-description)).
@@ -94,7 +90,6 @@ Upon request, and with clear instructions from you, we can help prepare the data
 
 [top](#Content)
 
-----
 ## Project Submission Checklist
 
 * Project and 7 minute (max) video are due before midnight of May 30th.
@@ -114,7 +109,6 @@ Since you will be rewriting history, you will need to unprotect your branch in g
 
 [top](#Content)
 
-----
 ## Video Presentations
 
 Instruction for video presentations:
@@ -131,7 +125,6 @@ Please, **DO NOT** load the video as part of your project, send a video embedded
 
 [top](#Content)
 
----- 
 ## Grading Method
 
 At the end of the term you will provide a 7-minute video, in which each member of the project presents a part of the project.
@@ -157,7 +150,6 @@ Your grades will be based on the code, videos and Q&A, taking into account:
 
 [top](#Content)
 
-----
 ## Dataset Description
 
 For this project we will use the data published on the [Open Data Platform Mobility Switzerland](<https://opentransportdata.swiss>).
@@ -305,7 +297,6 @@ source of historical weather data.
 
 [top](#Content)
 
-----
 ## Hints
 
 Before you get started, we offer a few hints:
@@ -321,7 +312,6 @@ Next, work-out the risk-aware solution gradually - start with a simple predictiv
 
 [top](#Content)
 
-----
 ## References
 
 We offer a list of useful references for those of you who want to push it further or learn more about it:
@@ -332,7 +322,6 @@ We offer a list of useful references for those of you who want to push it furthe
 
 [top](#Content)
 
-----
 ## FAQ
 
 This section will be updated with the Frequently Asked Questions during the course of this project. Please stay tuned.
@@ -359,4 +348,3 @@ Furthermore, who would you blame if the plan fails: the planner that came up wit
 
 [top](#Content)
 
-----
